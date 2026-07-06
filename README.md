@@ -66,7 +66,9 @@ ACCELERATION → NVIDIA GPUs · Spark RAPIDS · cuDF.pandas (10x faster ETL)
 
 ### 📹 Demo Video
 
-<video src="https://github.com/tejaprakas/samudaay/raw/master/Samudaay_Demo_Video.mp4" controls width="100%" poster="https://img.shields.io/badge/SAMUDAAY-Demo-red?style=for-the-badge"></video>
+<video src="https://github.com/tejaprakas/samudaay/raw/master/Samudaay_Demo_Video.mp4" controls width="100%"></video>
+
+**Or watch on YouTube:** [▶️ Click here](https://youtu.be/NSQQZysSdqo)
 
 > 🎬 *72-second demo — Hack2Skill Gen AI Academy APAC submission*
 
